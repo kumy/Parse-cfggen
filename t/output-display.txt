@@ -1,0 +1,64 @@
+LSI Logic IR Configuration Utility 2.00.15
+Read configuration has been initiated for controller 0
+------------------------------------------------------------------------
+Controller information
+------------------------------------------------------------------------
+  Controller type                         : SAS1064E
+  BIOS version                            : 6.12.01.00
+  Firmware version                        : 1.18.84.00
+  Channel description                     : 1 Serial Attached SCSI
+  Initiator ID                            : 112
+  Maximum physical devices                : 62
+  Concurrent commands supported           : 511
+  Slot                                    : Unknown
+  Bus                                     : 2
+  Device                                  : 0
+  Function                                : 0
+  RAID Support                            : Yes
+------------------------------------------------------------------------
+IR Volume information
+------------------------------------------------------------------------
+IR volume 1
+  Volume ID                               : 0
+  Status of volume                        : Okay (OKY)
+  RAID level                              : 1
+  Size (in MB)                            : 69618
+  Physical hard disks (Target ID)         : 1 4
+------------------------------------------------------------------------
+Physical device information
+------------------------------------------------------------------------
+Initiator at ID #112
+Target on ID #1
+  Device is a Hard disk
+  Enclosure #                             : 1
+  Slot #                                  : 1
+  Target ID                               : 1
+  State                                   : Online (ONL)
+  Size (in MB)/(in sectors)               : 70006/143374000
+  Manufacturer                            : IBM-ESXS
+  Model Number                            : ST973401SS      
+  Firmware Revision                       : B51D
+  Serial No                               : 3LB1EMRF00009728G016
+  Drive Type                              : SAS
+Target on ID #4
+  Device is a Hard disk
+  Enclosure #                             : 1
+  Slot #                                  : 0
+  Target ID                               : 4
+  State                                   : Online (ONL)
+  Size (in MB)/(in sectors)               : 70006/143374000
+  Manufacturer                            : IBM-ESXS
+  Model Number                            : ST973402SS      
+  Firmware Revision                       : B526
+  Serial No                               : 3NP2Y4FK0000984421PC
+  Drive Type                              : SAS
+------------------------------------------------------------------------
+Enclosure information
+------------------------------------------------------------------------
+Enclosure#                                : 1
+  Logical ID                              : 5005076b:1007d4a4
+  Numslots                                : 4
+  StartSlot                               : 0
+  Start TargetID                          : 0
+  Start Bus                               : 0
+------------------------------------------------------------------------

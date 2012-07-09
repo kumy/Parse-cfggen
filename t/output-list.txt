@@ -1,0 +1,8 @@
+LSI Logic IR Configuration Utility 2.00.15
+
+         Adapter   Vendor  Device  Segment                     SubSys  SubSys 
+ Ioc#     Type       ID      ID      ID     Bus  Device  Func  Ven ID  Dev ID 
+ -----  ---------  ------  ------  -------  ---  ------  ----  ------  ------ 
+   0     SAS1064E   1000h    56h    0000h    02h    00h   00h   1014h   0306h 
+
+
