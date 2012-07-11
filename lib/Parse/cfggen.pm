@@ -103,7 +103,7 @@ sub parse_config
   if(open LIST, $command) {
     while (<LIST>) {
       next unless $_ =~ /^\s+(\d+)\s+\W/;
-      push @ctrls, $_;
+      push @ctrls, $1;
     }
     close LIST;
   }
